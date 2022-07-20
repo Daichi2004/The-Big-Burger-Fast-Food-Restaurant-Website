@@ -1,0 +1,516 @@
+body{
+	background-color: black;
+	margin: 0;
+	color: white;
+}
+
+h3{
+	float: left;
+	margin-top: 150px;
+	margin-left: -250px;
+}
+
+.hh{
+	margin-top: 200px;
+	margin-left: -570px;
+}
+
+.hhh{
+	margin-top: 250px;
+	margin-left: -570px;
+}
+
+.h4{
+	margin-top: 300px;
+	margin-left: -613px;
+}
+
+.hhhh{
+	margin-top: 350px;
+	margin-left: -613px;
+}
+
+.hhhhh{
+	margin-top: 400px;
+	margin-left: -613px;
+}
+
+.h7{
+	margin-top: 450px;
+	margin-left: -613px;
+}
+
+p{
+	color: black;
+}
+
+.Logo{
+	width: 160px;
+	height: 160px;
+	margin-left: 10px;
+	float: left;
+}
+
+overall{
+	float: left;
+}
+
+.starterbutton{
+	background-color: rgb(0,0,0);
+	border-color: black;
+	color: white;
+	display: text-inline;
+	font-size: 35px;
+	margin-left: 100px;
+	margin-right: 50px;
+	padding: 7px 7px 7px 7px;
+	width: 100px;
+	font-family: MV boli;
+	float: left;
+}
+
+.starterbutton:hover{
+	transition-duration: 0.6s;
+	color: yellow;
+	border-color: black;
+	padding: 7px 7px 7px 7px;
+}
+
+.Hanbaobao{
+	height: 400px;
+	width: 450px;
+	float: left;
+}
+
+.Quote1{
+	font-size: 50px;
+	float: left;
+	margin-top: 120px;
+	font-family: MV boli;
+	position: relative;
+}
+
+.Foodbutton{
+	margin-left: -320px;
+	font-size: 30px;
+	font-family: monotype corsiva;
+	padding-right: 10px;
+	margin-top: 360px;
+	background-color: yellow;
+	border-color: yellow;
+	border: 2px yellow solid;
+}
+
+.Foodbutton:hover{
+	background-color: white;
+	transition-duration: 0.7s;
+}
+
+.Mainbox{
+	font-family: Brush script std;
+	clear: both;
+	background-color: white;
+	border: 4px yellow solid;
+	margin-left: 20px;
+	margin-right: 20px;
+	color: black;
+	padding-bottom: 0px;
+	margin-bottom: 30px;
+}
+
+.Awards{
+	font-size: 70px;
+	margin-left: 50px;
+	float: left;
+	margin-bottom: 0px;
+}
+
+.Awardtext{
+	float: left;
+	margin-left: 20px;
+	text-align: left;
+	margin-right: 600px;
+	font-size: 18px;
+}
+
+.Map{
+	font-size: 70px;
+	margin-left: 600px;
+	float: left;
+	margin-bottom: 0px;
+}
+
+.Mapinput{
+	float: left;
+	height: 400px;
+	width: 500px;
+	margin-left: 700px;
+	margin-top: -350px;
+ }
+ 
+.About{
+	float: left;
+	margin-left: 50px;
+	font-size: 70px;
+}
+
+.Abouttext{
+	float: left;
+	margin-left: 20px;
+	margin-right: 400px;
+	margin-top: -20px;
+}
+
+.CEO{
+	float: right;
+	margin-top: -300px;
+	margin-right: 50px;
+	border: 2px black solid;
+}
+
+.History{
+	margin-left: 40px;
+	float: left;
+	font-size: 70px;
+}
+
+.Store{
+	float: right;
+	margin-right: 20px;
+	margin-top: 80px;
+	
+}
+
+.Promotion{
+	margin-left: 40px;
+	float: left;
+	font-size: 70px;
+	margin-top: 270px;
+}
+
+.Promo1{
+	margin-left: -560px;
+	float: left;
+	font-size: 45px;
+	margin-top: 390px;
+	border: 2px yellow solid;
+	padding: 6px 6px 2px 6px;
+}
+
+.Promo2{
+	font-size: 45px;
+	margin-top: 290px;
+	margin-left: -560px;
+	float: left;
+	border: 2px yellow solid;
+	padding: 6px 6px 2px 6px;
+}
+
+.Advertisement{
+	margin-top: 50px;
+	margin-left: 30px;
+	float: left;
+	height: 430px;
+	width: 430px;
+	border: 3px black solid;
+}
+
+.horizon{
+	margin-top: 2000px;
+	background-color: yellow;
+	border-color: yellow;
+	height: 3px;
+}
+
+.c{
+	margin-top: 20px;
+	font-size: 30px;
+	text-align: center;
+}
+
+.Quote2{
+	float: left;
+	text-align: center;
+	margin-top: 100px;
+	margin-left: 60px;
+	font-size: 50px;
+	font-family: MV boli;
+}
+
+.French{
+	float: left;
+	margin-left: 100px;
+	margin-top: 20px;
+	margin-bottom: 40px;
+	height: 350px;
+	width: 450px;
+}
+
+.Menubox{
+	font-family: Brush script std;
+	clear: both;
+	background-color: white;
+	border: 4px yellow solid;
+	margin-left: 20px;
+	margin-right: 20px;
+	color: black;
+	padding-bottom: 760px;
+	margin-bottom: 30px;
+}
+
+.Food1{
+	position: relative;
+	text-align: center;
+}
+
+.menu1{
+	float: left;
+	margin-top: 2%;
+	margin-left: 2%;
+	height: 350px;
+	width: 500px;
+}
+
+.name1{
+	font-size: 40px;
+	postion: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+.Food2{
+	float: left;
+	margin-left: 55%;
+	margin-top: -29.7%;
+}
+
+.menu2{
+	float: left;
+	margin-top: 2%;
+	height: 350px;
+	width: 500px;
+}
+
+.name2{
+	float: left;
+	font-size: 40px;
+	margin-left: 28%;
+	margin-top: -72.8%;
+}
+
+.Food3{
+	float: left;
+	margin-left: 55%;
+	margin-top: 5%;
+}
+
+.menu3{
+	float: left;
+	margin-top: 2%;
+	height: 350px;
+	width: 500px;
+}
+
+.name3{
+	float: left;
+	font-size: 40px;
+	margin-left: 20%;
+	margin-top: -72.8%;
+}
+
+.Food4{
+	position: relative;
+	text-align: center;
+}
+
+.menu4{
+	float: left;
+	margin-top: -28.5%;
+	margin-left: 2%;
+	height: 350px;
+	width: 500px;
+}
+
+.name4{
+	float: left;
+	font-size: 40px;
+	postion: absolute;
+	margin-top: -30.8%;
+	margin-left: -22%;
+	transform: translate(-50%, -50%);
+}
+
+.Revquote{
+	float: left;
+	font-family: MV boli;
+	font-size: 90px;
+	margin-left: 10%;
+	margin-top: 3%;
+}
+
+.horizon2{
+	float: left;
+	width: 99.86%;
+	margin-top: 0px;
+	background-color: yellow;
+	border-color: yellow;
+	height: 5px;
+}
+
+.comment1{
+	font-family: MV boli;
+	font-size: 40px;
+	float: left;
+	color: white;
+	margin-left: 10%;
+}
+
+.comment2{
+	font-family: MV boli;
+	font-size: 40px;
+	float: left;
+	color: white;
+	margin-top: -5%;
+	margin-left: 62%;
+}
+
+.comment3{
+	font-family: MV boli;
+	font-size: 40px;
+	float: left;
+	color: white;
+	margin-top: -7%;
+	margin-left: 4%;
+}
+
+.Reviewwrite{
+	float: left;
+	margin-top: 30%;
+	margin-left: -25%;
+	font-size: 50px;
+	color: yellow;
+	font-Family: mv boli;
+}
+
+.commentbox{
+	float: left;
+	margin-top: 36%;
+	margin-left: -31.5%;
+	text-align: left;
+	margin-bottom: 70px;
+	height: 120px;
+	border: 2px yellow solid;
+}
+
+.commentbutton{
+	float: left;
+	margin-top: 42.9%;
+	margin-left: 2%;
+	font-size: 30px;
+	border: 2px yellow solid;
+	background-color: white;
+}
+
+.commentbutton:hover{
+	transition-duration: 0.5s;
+	border: 2px yellow solid;
+	color: white;
+	background-color: black;
+}
+
+.commentbutton:active{
+	transition-duration: 0.2s;
+	color: black;
+	background-color: yellow;
+}
+
+.Quote3{
+	float: left;
+	font-family: MV boli;
+	font-size: 70px;
+	margin-left: 3%;
+	margin-top: 7%;
+}
+
+.Bike{
+	float: left;
+	height: 300px;
+	margin-top: 3%;
+	margin-left: 8%;
+}
+
+.Deliverybox{
+	font-family: MV boli;
+	clear: both;
+	background-color: white;
+	border: 4px yellow solid;
+	margin-left: 20px;
+	margin-right: 20px;
+	color: black;
+	padding-bottom: 0px;
+	margin-bottom: 30px;
+}
+
+.Steak{
+	font-size: 90px;
+	text-align: center;
+	margin-top: 0%;
+}
+
+.Tenbutton{
+	color: black;
+	border: 2px black solid;
+	background-color: white;
+	margin-left: 6%;
+	width: 135px;
+	font-size: 100px;
+	margin-bottom: 10%;
+}
+
+.Tenbutton:hover{
+	transition-duration: 0.5s;
+	color: black;
+	border: 2px black solid;
+	background-color: yellow;
+}
+
+.Tenderloin{
+	float: right;
+	font-size: 70px;
+	margin-top: 1%;
+	margin-right: 30%;
+	margin-bottom: 50px;
+}
+
+.Tenimage{
+	float: right;
+	margin-top: -26%;
+	margin-right: 3%;
+	height: 250px;
+	width: 250px;
+	margin-bottom: 60px;
+}
+
+.YAYer{
+	margin-bottom: 50px;
+}
+
+.Last{
+	margin-top: -10%;
+	margin-left: 2%;
+	font-family: mv boli;
+	font-size: 25px;
+	background-color: #ab9165;
+	border: 2px black solid;
+	height: 350px;
+	width: 250px;
+	transform: rotate(-20deg);
+}
+
+.Arrow{
+	float: right;
+	font-size: 200px;
+	margin-right: 5%;
+	margin-top: -10%;
+}
